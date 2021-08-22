@@ -1,1 +1,2 @@
 "# Spotify-like" 
+MVC architecture
